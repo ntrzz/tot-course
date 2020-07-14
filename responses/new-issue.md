@@ -1,1 +1,1 @@
-Welcome to this course!
+<s>s</s>
